@@ -1,0 +1,33 @@
+#header {
+    background-color: #02343F;
+    color: #F0EDCC;
+    text-align: center;
+    font-family: "Brush Script MT", cursive;
+    
+    width: 100%;
+    max-width: 600px;
+    height: 500px;
+    margin: 0 auto;
+
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8px;
+    
+}
+
+#header h1 {
+    margin: 0;
+    font-size: 50px;
+}
+
+#header p {
+    margin: 10px 0 0 0;
+    font-size: 30px;
+    font-family: Arial, sans-serif;
+    
+}
+
+
